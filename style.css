@@ -291,7 +291,7 @@ nav {
 
 #background-video {
     object-fit: cover;
-    height: 90vh;
+    height: 80vh;
     width: 100%;
 }
 
@@ -1124,7 +1124,7 @@ h1 {
     }
 
     .news p{
-        font-size: .8rem;
+        font-size: .7rem;
     }
     .dive .box-container .one-part, .dive .box-container .two-part {
         width: 100%;
